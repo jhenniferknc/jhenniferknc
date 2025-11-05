@@ -4,11 +4,7 @@
 <p>Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB), com foco em desenvolvimento de software e web. Atualmente, sou bolsista no projeto <strong>Solução IoT Baseada em Tecnologia LoRa para Otimização do Uso de Água na Agricultura Familiar</strong>, onde contribuo para o desenvolvimento de soluções tecnológicas voltadas à sustentabilidade e inovação no campo. Estou sempre em busca de aprimorar minhas habilidades em programação, explorando novas tecnologias e boas práticas. Utilizo este espaço para compartilhar meu aprendizado por meio de exemplos práticos e experiências no mundo da tecnologia. =]</p>
 
 ## 
-       
-<div align="center"><br>
-       <a href="https://github.com/JhenniferK">
-       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhenniferK&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+
 <div align="center" style="display: inline_block"><br>
        <img align="center" alt="Jhenni-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
        <img align="center" alt="Jhenni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
