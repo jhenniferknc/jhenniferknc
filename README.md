@@ -1,7 +1,7 @@
 <div align="center">
        <h3>Hello, 🌎!</h3>
 
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB), com foco em desenvolvimento de software e web. Atualmente, sou bolsista no projeto <strong>Solução IoT Baseada em Tecnologia LoRa para Otimização do Uso de Água na Agricultura Familiar</strong>, onde contribuo para o desenvolvimento de soluções tecnológicas voltadas à sustentabilidade e inovação no campo. Estou sempre em busca de aprimorar minhas habilidades em programação, explorando novas tecnologias e boas práticas. Utilizo este espaço para compartilhar meu aprendizado por meio de exemplos práticos e experiências no mundo da tecnologia. =]</p>
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB), com foco em desenvolvimento de software e web. Atualmente, atuo como QA no laboratório IDE.IA e sou bolsista no projeto <strong>Solução IoT Baseada em Tecnologia LoRa para Otimização do Uso de Água na Agricultura Familiar</strong>, onde contribuo para o desenvolvimento de soluções tecnológicas voltadas à sustentabilidade e inovação no campo. Estou sempre em busca de aprimorar minhas habilidades em programação, explorando novas tecnologias e boas práticas. Utilizo este espaço para compartilhar meu aprendizado por meio de exemplos práticos e experiências no mundo da tecnologia. =]</p>
 
 ## 
 
