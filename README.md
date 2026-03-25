@@ -1,7 +1,7 @@
 <div align="center">
        <h3>Hello, 🌎!</h3>
 
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB) e estou sempre em busca de aprimorar minhas habilidades em programação, explorando novas tecnologias e boas práticas. =]</p>
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB) e estou sempre em busca de aprimorar minhas habilidades em programação. =]</p>
 
 ## 
 
